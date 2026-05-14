@@ -1,0 +1,15 @@
+city_id,city_name,population,estimated_rent,city_rank
+1,London,12300000,2970,1
+2,Manchester,11100000,1710,6
+3,Birmingham,7500000,1530,9
+4,Liverpool,4000000,1080,8
+5,Leeds,31000000,2250,3
+6,Glasgow,20400000,3150,2
+7,Edinburgh,10000000,2250,4
+8,Cardiff,8300000,1440,5
+9,Belfast,14900000,1620,7
+10,Bristol,7200000,1350,10
+11,Newcastle upon Tyne,3800000,900,11
+12,Sheffield,3100000,810,12
+13,Leicester,2900000,720,13
+14,Nottingham,3300000,630,14
