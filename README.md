@@ -30,6 +30,7 @@ These top three cities should be prioritized for new coffee shop openings becaus
 
 ## Conclusion
 This project helps identify where Nespresso should expand next in the UK by focusing on demand-driven and financially practical cities. The final shortlist supports smarter location planning and improves the chance of strong future store performance.
+<img width="1409" height="736" alt="Image" src="https://github.com/user-attachments/assets/a2e8a1dd-c826-4de3-8c7f-565f23b4287c" />
 
 ## Author
 - Ahsan ul haq
