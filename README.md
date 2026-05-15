@@ -1,7 +1,9 @@
 # Nespresso Coffee Shop Project (SQL)
+
+<img width="1365" height="714" alt="Image" src="https://github.com/user-attachments/assets/fb58e328-bf92-41e6-abd3-68f7f8132d3b" />
+
 ## Project Goal
 This project analyzes Nespresso’s UK sales data to identify the strongest cities for future coffee shop expansion. The main objective is to combine sales performance, customer demand, population, and rent to find the best location opportunities for opening new stores.
-<img width="1365" height="714" alt="Image" src="https://github.com/user-attachments/assets/fb58e328-bf92-41e6-abd3-68f7f8132d3b" />
 
 ## Given Resourse 
 - City data
@@ -28,4 +30,10 @@ These top three cities should be prioritized for new coffee shop openings becaus
 
 ## Conclusion
 This project helps identify where Nespresso should expand next in the UK by focusing on demand-driven and financially practical cities. The final shortlist supports smarter location planning and improves the chance of strong future store performance.
+
+## Author
+- Ahsan ul haq
+
+## License
+- This project is intended for educational and portfolio purposes.
 
