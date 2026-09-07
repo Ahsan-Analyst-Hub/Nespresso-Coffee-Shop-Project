@@ -1,4 +1,4 @@
-# Nespresso Coffee Shop Project (SQL)
+# Synthetic Nespresso Coffee Shop Project (SQL)
 
 <img width="1365" height="714" alt="Image" src="https://github.com/user-attachments/assets/fb58e328-bf92-41e6-abd3-68f7f8132d3b" />
 
